@@ -42,7 +42,9 @@ class ListTableViewController: UITableViewController {
 
     }
 
+    
     //------------------------------------------ TABLE VIEW FUNCTIONS ------------------------------------------- //
+    
     
     // number of sections
     override func numberOfSections(in tableView: UITableView) -> Int {
